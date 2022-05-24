@@ -1,0 +1,16 @@
+Início
+
+	PARA i = 0; i<16; i++ FAÇA
+		PARA J = 0; J<16; J++ FAÇA
+			ler matriz_imagem[i][j]
+		FIM PARA
+	FIM PARA
+
+	PARA i = 0; i<16; i++ FAÇA
+		PARA J = 0; J<16; J++ FAÇA
+			mostrar matriz_imagem[i][j]
+		FIM PARA
+		Quebra de Linha
+	FIM PARA
+
+Fim
